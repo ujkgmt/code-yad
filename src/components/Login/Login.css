@@ -1,0 +1,23 @@
+.cart{
+    position:relative;
+    top: 100;
+    width: 35%;
+    height: 40rem;
+    margin-top: 10rem;
+}
+input{
+    direction: ltr;
+   font-size: 1.2rem !important;
+}
+input:focus{
+    
+border: 2px solid #733dd8 !important ; 
+
+}
+h2{
+    color: #733dd8;
+    font-weight: bolder;
+}
+.hover:hover{
+color: white;
+}

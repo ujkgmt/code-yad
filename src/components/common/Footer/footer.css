@@ -1,0 +1,5 @@
+.hover-icon:hover{
+    background-color: rgba(112, 128, 144, 0.425);
+    border-radius: 50rem;
+    padding: 1rem;
+}

@@ -1,0 +1,12 @@
+
+
+.course-border{
+    text-align: center;
+    border-bottom: 10px solid rgb(154, 144, 221);
+    border-radius: 5px;
+    width: 35%;
+    z-index: 0;
+}
+.self-card {
+height: 20rem;
+}

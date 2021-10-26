@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "iranYekan";
+    src:
+         url("/src/fonts/IRANYekanWebMedium.7aef43b20f6370e141da846cb65cb632.woff") format("woff");
+  }
+
+  *{
+      font-family: iranYekan;
+      font-weight: normal;
+      font-size: small;
+      
+    }
+    .button{
+      border: none !important;
+      border-radius: .5rem !important;
+      background-image: linear-gradient(333deg, rgb(43, 1, 121) 0%, rgb(43, 1, 121) 0%, rgb(121, 56, 242) 100%, rgb(121, 56, 242) 100%); color: rgb(255, 255, 255) !important;
+    }
+
+    .active{
+      color: #733dd8 !important;
+    }
+    a{
+      text-decoration: none;
+    }
+    .text_hover:hover{
+      color: #733dd8 !important;
+    }
+    .purple{
+      color: #733dd8;
+    }
